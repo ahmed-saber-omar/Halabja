@@ -1,6 +1,6 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Halabja chemical attack The Halabja chemical attack, also known as the Halabja Massacre or Bloody Friday, was a massacre against ", 
+    " The Halabja chemical attack, also known as the Halabja Massacre or Bloody Friday, was a massacre against ", 
     "the Kurdish people that took place on March 16, 1988, during the closing days of the Iran and Iraq War in the Kurdish city of Halabja in Southern Kurdistan"
     );
     var iSpeed = 60; // time delay of print out
